@@ -1,0 +1,1 @@
+devcon.exe restart @"USB\VID_0403&PID_6011\FTURX"*
